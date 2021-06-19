@@ -1,0 +1,74 @@
+    .login-box{
+        margin:auto;
+        align-items: center;
+        width: 360px;
+        height: 300px;
+        font-family: Optima;
+        border-width: 1px;
+        border-color: lightgrey;
+        border-style: solid;
+        text-align: center;
+        padding: 50px;
+    }
+    .input-box{
+        margin:auto;
+        width:100% ;
+        top: 180px;
+        width: 280 px; 
+    }
+    .loginbtn{
+        width: 80%;
+    }
+    .header-left{
+        font-family:Lucida Sans Unicode;    
+    }
+    .ulc {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+    li {
+    float: left;
+    }
+    li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+    .footer {  
+    font-size:medium;    
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #D3D3D3;
+    }
+    .icon-bar {
+        overflow: auto;
+    }
+    
+    .icon-bar a{
+        color:black;
+        float: right;
+        width: 10%;
+        text-align: center;
+        padding: 12px 0;
+        transition: all 0.3s ease;
+        font-size: 25px;
+    }
+
+    .classWithPad {
+        margin:10px;
+        padding:10px;
+    }
+
+    .imgs{
+        margin: 10px;
+        background-color: #CAE4F1;
+        height:300px;
+        width:100% ;
+    }
+    
